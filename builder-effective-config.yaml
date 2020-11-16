@@ -7,8 +7,8 @@ files:
       - '**'
 extends: null
 publish:
-  - provider: generic
-    url: 'https://github.com/likelikeli/Plover_lightWing3.0'
+  provider: generic
+  url: 'https://github.com/likelikeli/download/'
 win:
   icon: ./public/icon.ico
 mac:
