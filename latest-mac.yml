@@ -1,12 +1,12 @@
-version: 2.0.6
+version: 2.0.7
 files:
-  - url: 804所数据分析-轻翼-2.0.6-mac.zip
-    sha512: eNxO3WlJQWXAhHCew6rUJzm0fkUI+4HijOKA3XNkbH1lNpF/ucmTKCCHfRkx/3aAO+hEG/AvoiiOh5ih21mgqA==
-    size: 88441326
-    blockMapSize: 93044
-  - url: 804所数据分析-轻翼-2.0.6.dmg
-    sha512: Is3ouAwqXXAKcaglrQt5KdB4+d5mBLBLXBeWWeNo65hxOwYKSFPbdy3spYBgW/LEfO6u34qm3McvsCO86ZpRDg==
-    size: 91727790
-path: 804所数据分析-轻翼-2.0.6-mac.zip
-sha512: eNxO3WlJQWXAhHCew6rUJzm0fkUI+4HijOKA3XNkbH1lNpF/ucmTKCCHfRkx/3aAO+hEG/AvoiiOh5ih21mgqA==
-releaseDate: '2020-11-16T08:28:01.977Z'
+  - url: 804所数据分析-轻翼-2.0.7-mac.zip
+    sha512: uJDaNVkbTWATvJSdBZ5mUAm6+haI3X3XmoAGVHGwwP1ISKjFaKXOg2HfR/lkFM+l2wjqUcoqJfPW8AAbYgwPYA==
+    size: 88429319
+    blockMapSize: 92463
+  - url: 804所数据分析-轻翼-2.0.7.dmg
+    sha512: 7zoSbf+krhQldCWz/EbMCUaZAQkpHQFofHPdU2er87yR4Zljx+q7dxGwb/xNHJM24zoMLh4V/WrpDvnvydrzig==
+    size: 91720255
+path: 804所数据分析-轻翼-2.0.7-mac.zip
+sha512: uJDaNVkbTWATvJSdBZ5mUAm6+haI3X3XmoAGVHGwwP1ISKjFaKXOg2HfR/lkFM+l2wjqUcoqJfPW8AAbYgwPYA==
+releaseDate: '2020-11-16T10:30:22.318Z'
