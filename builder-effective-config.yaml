@@ -1,0 +1,17 @@
+directories:
+  output: dist_electron
+  buildResources: build
+  app: dist_electron/bundled
+files:
+  - filter:
+      - '**'
+extends: null
+publish:
+  - provider: generic
+    url: 'https://github.com/likelikeli/Plover_lightWing3.0'
+win:
+  icon: ./public/icon.ico
+mac:
+  icon: ./public/Icon.icns
+productName: 804所数据分析-轻翼
+electronVersion: 9.2.0
