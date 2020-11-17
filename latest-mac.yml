@@ -1,12 +1,12 @@
-version: 2.0.7
+version: 2.0.8
 files:
-  - url: 804所数据分析-轻翼-2.0.7-mac.zip
-    sha512: uJDaNVkbTWATvJSdBZ5mUAm6+haI3X3XmoAGVHGwwP1ISKjFaKXOg2HfR/lkFM+l2wjqUcoqJfPW8AAbYgwPYA==
-    size: 88429319
-    blockMapSize: 92463
-  - url: 804所数据分析-轻翼-2.0.7.dmg
-    sha512: 7zoSbf+krhQldCWz/EbMCUaZAQkpHQFofHPdU2er87yR4Zljx+q7dxGwb/xNHJM24zoMLh4V/WrpDvnvydrzig==
-    size: 91720255
-path: 804所数据分析-轻翼-2.0.7-mac.zip
-sha512: uJDaNVkbTWATvJSdBZ5mUAm6+haI3X3XmoAGVHGwwP1ISKjFaKXOg2HfR/lkFM+l2wjqUcoqJfPW8AAbYgwPYA==
-releaseDate: '2020-11-16T10:30:22.318Z'
+  - url: lightWing-2.0.8-mac.zip
+    sha512: HL0wfi4NBuCyBgK9WeSriojB/sQMZGILKhobFyItXq+ITP9HoA7HlonYzzeUOLPGmXIqUcR0dXK9HAfZaQqW9w==
+    size: 88429619
+    blockMapSize: 92754
+  - url: lightWing-2.0.8.dmg
+    sha512: T2vAhzi+6mZhbAJ3uhAGWLyGUyr1/e3zGOFJvxEFQyduHoD9ZuJCUl99CyjFUWrm+Lb4HGCna+HU8gjbG25oig==
+    size: 91720363
+path: lightWing-2.0.8-mac.zip
+sha512: HL0wfi4NBuCyBgK9WeSriojB/sQMZGILKhobFyItXq+ITP9HoA7HlonYzzeUOLPGmXIqUcR0dXK9HAfZaQqW9w==
+releaseDate: '2020-11-17T02:28:18.334Z'

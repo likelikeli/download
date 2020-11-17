@@ -7,7 +7,11 @@ files:
       - '**'
 extends: null
 publish:
-  provider: generic
+  provider: github
+  owner: likelikeli
+  token: <stripped sensitive data>
+  private: true
+  repo: zx07069352
   url: 'https://github.com/likelikeli/download/'
 win:
   icon: ./public/icon.ico
